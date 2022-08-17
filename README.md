@@ -28,3 +28,5 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_linux_cli
 ## Мої враження --> 2. Git для командної співпраці
 * Почав цей розщділ 16.08.2022
 * 
+*
+* Рядок додано на локальному сховищі
