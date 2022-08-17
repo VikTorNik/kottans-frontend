@@ -30,3 +30,5 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_linux_cli
 * 
 *
 * Рядок додано на локальному сховищі
+* Додав рядок з віддаленої гилки
+
