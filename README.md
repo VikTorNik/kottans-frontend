@@ -38,3 +38,9 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_git_collaboration
 
 ## 3. Intro to HTML & CSS
 * Почав цей розділ 19.08.2022
+* Посилання на скріншоти виконаних завдань 
+https://github.com/VikTorNik/kottans-frontend/tree/main/task_html_css_intro
+* Враження. Курс Introduction to Responsive Design - перші два тижні - трохи нудний і дещо розтянутий. Та сама інформація дублюється у Learn HTML(Eng) та Learn CSS(Eng). Але, є одне але. Саме у ціх двох останніх - вона подана біль цікаво і насичено. Завдання оптимальні і не перевантажені зайвим. Сприймаються легко. Жалкую, що витратив час на відеоформат.
+* Закінчив цей розділ 23.08.2022
+
+
