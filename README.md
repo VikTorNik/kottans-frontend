@@ -46,8 +46,10 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_html_css_intro
 ## Мої враження --> 4. Responsive Web Design
 * Почав цей розділ 23.08.2022
 * Посилання на скріншоти виконаних завдань 
+https://github.com/VikTorNik/kottans-frontend/tree/main/task_responsive_web_design
 * Канал «Фрілансер по життю» справив на мене досить сильне враження. Схиляюсь до думки, що потбібно було навчання по всьому матеріалу, який стосувався HTML та CSS базувати семе на цьому каналі. Бо матеріал з Learn HTML та Learn CSS помітно програє.
-
+* Серьйозно задумався щодо більш детально попрактикуватися вертальником.
+* Закінчив цей розділ 25.08.2022
 
 
 
