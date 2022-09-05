@@ -1,11 +1,11 @@
 # Front-End Course. Contents
+# Stage 0. Self-Study
 ** Цей репозиторій створений на вимогу завдання від Front-End Course
 
-# Stage 0. Self-Study. General
+# General
 
 ## 0. Git Basics
 
-## Мої враження --> 0. Git Basics
 * Почав цей розділ 04.08.2022
 * Поки що все нормально, бо це тільки початок довго шляху
 * Відео-лекції трохи затягнуті, але все одно цікаві
@@ -16,7 +16,6 @@
 
 ## 1. Linux CLI, and HTTP
 
-## Мої враження --> 1. Linux CLI and Networking
 * Багато команд я знав
 * Але, як виявилось дещо забув. Загалом - перш за все це практика. Бо якщо не використовуєш ці команди у повсякденні, то звісно будеш їх забувати.
 * Про протокол HTTP - цікаво, але досить складно. Це стане сильно у нагоді тим, хто перейде до BackEnd. Загалом мене цікавить робота у Node.JS
@@ -26,7 +25,6 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_linux_cli
 
 ## 2. Git Collaboration
 
-## Мої враження --> 2. VCS (hello gitty), GitHub and Collaboration
 * Почав цей розділ 16.08.2022
 * Посилання на скріншоти виконаних завдань 
 https://github.com/VikTorNik/kottans-frontend/tree/main/task_git_collaboration
@@ -38,7 +36,6 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_git_collaboration
 
 ## 3. Intro to HTML & CSS
 
-## Мої враження --> 3. Intro to HTML & CSS
 * Почав цей розділ 19.08.2022
 * Посилання на скріншоти виконаних завдань 
 https://github.com/VikTorNik/kottans-frontend/tree/main/task_html_css_intro
@@ -47,7 +44,6 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_html_css_intro
 
 ## 4. Responsive Web Design
 
-## Мої враження --> 4. Responsive Web Design
 * Почав цей розділ 23.08.2022
 * Посилання на скріншоти виконаних завдань 
 https://github.com/VikTorNik/kottans-frontend/tree/main/task_responsive_web_design
@@ -55,9 +51,8 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_responsive_web_desi
 * Серьйозно задумався щодо більш детально попрактикуватися вертальником.
 * Закінчив цей розділ 25.08.2022
 
-## 5. HTML & CSS Practice
+## 5. HTML & CSS Practice: Hooli-style Popup
 
-## Мої враження --> 5. HTML і CSS практика: Hooli-style Popup
 * Почав цей розділ 25.08.2022
 * Окреме репо роботи
 https://github.com/VikTorNik/PopUp
@@ -69,7 +64,6 @@ https://viktornik.github.io/PopUp/
 
 ## 6. JavaScript Basics
 
-## Мої враження --> 6. JavaScript Basics
 * Почав цей розділ 30.08.2022
 * Посилання на скріншоти виконаних завдань 
 https://github.com/VikTorNik/kottans-frontend/tree/main/task_javascript_basics
@@ -77,9 +71,10 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_javascript_basics
 * В той же час FreeCodeCamp це цікава прокачка і згадування вже трози підзабутих навичок. Такий собі міні варіант - Codewars.
 * Закінчив цей розділ 04.09.2022
 
+## 7. Document Object Model
 
-
-
+* Почав цей розділ 05.09.2022
+* Посилання на скріншоти виконаних завдань 
 
 
 
