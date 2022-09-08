@@ -75,6 +75,12 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_javascript_basics
 
 * Почав цей розділ 05.09.2022
 * Посилання на скріншоти виконаних завдань 
-
+https://github.com/VikTorNik/kottans-frontend/tree/main/task_document_object_model
+* Окреме репо роботи
+https://github.com/VikTorNik/DOM-Kottans
+* Демонстрація роботи
+https://viktornik.github.io/DOM-Kottans/
+* Мені було легше виконувати це завдання, тому що я вже колись вивчав js і основи роботи з DOM-деревом. Намагався викоистовувати сучасні методи ES6 для роботи з об'єктами і формуванням сторінки. Сайт не повністю дороблений, але функціональний у розрізі роботи з DOM.
+* Закінчив цей розділ 08.09.2022
 
 
