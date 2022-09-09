@@ -32,7 +32,7 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_git_collaboration
 * І навпаки коли дивився відеолекціх щодо застосування GitHub була можливість попробувати практично і завдання та лекції здавались більш легкими і зрозумілими.
 * Закінчив цей розділ 19.08.2022
 
-# Stage 0. Self-Study. Front-End Basics
+# Front-End Basics
 
 ## 3. Intro to HTML & CSS
 
@@ -58,6 +58,8 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_responsive_web_desi
 https://github.com/VikTorNik/PopUp
 * Демонстрація роботи
 https://viktornik.github.io/PopUp/
+* Pull requests
+https://github.com/kottans/frontend-2022-homeworks/pull/365
 * Виконання цього завдання показало, що вивчення поточного матеріалу по HTML та CSS іде швидче, ніж це вдається засвоїти. Поки дивишся і вивчаєш навчальний матеріал - все зрозуміло. Але коли потрібно було все це застосувати на практиці - це просто хаос якийсь. 
 * Завдання зроблено - але питання залишились. Не все зрозуміло. Потрібно набагато більше практичних завдань, порівняно з теорією. Практика запам'ятовується набагато краще, ніж теорія.
 * Закінчив розробку завдання і відправив на ревью - 30.08.2022 
@@ -80,7 +82,24 @@ https://github.com/VikTorNik/kottans-frontend/tree/main/task_document_object_mod
 https://github.com/VikTorNik/DOM-Kottans
 * Демонстрація роботи
 https://viktornik.github.io/DOM-Kottans/
+* Pull requests
+https://github.com/kottans/frontend-2022-homeworks/pull/482
 * Мені було легше виконувати це завдання, тому що я вже колись вивчав js і основи роботи з DOM-деревом. Намагався викоистовувати сучасні методи ES6 для роботи з об'єктами і формуванням сторінки. Сайт не повністю дороблений, але функціональний у розрізі роботи з DOM.
 * Закінчив цей розділ 08.09.2022
+
+
+# Advanced Topics
+
+## 8. Building a Tiny JS World (pre-OOP)
+
+* Почав цей розділ 08.09.2022
+* Окреме репо роботи
+https://github.com/VikTorNik/a-tiny-JS-world
+* Демонстрація роботи
+https://viktornik.github.io/a-tiny-JS-world/
+* Pull requests
+https://github.com/kottans/frontend-2022-homeworks/pull/501
+* Начеб-то легке завдання. Зрозуміло, що розвитоку цього проекту буде більш складним, ніж цей початок. Але я не до кінця розумію цю задачу. Можливо суть полягає в тому, що б навчитися робити деструктуризацію масив <--> об'ект використовуючи сучасний синтаксис ES6.
+* Закінчив цей розділ 09.09.2022
 
 
